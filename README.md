@@ -1,7 +1,7 @@
-# Bootcamp-01
-## Decola Tech 3a edição
+# Bootcamp
+<img src="C:\workspace\Bootcamp-01\logoDecolaTech.png" width="150"/>
 
-### Cursos
+## Cursos 
 
 #### Módulo I - Conteúdo de abertura
 
