@@ -1,5 +1,5 @@
 # Bootcamp
-![Logo](C:\workspace\Bootcamp-01\logoDecolaTech.png)
+![Logo](https://raw.githubusercontent.com/juhleebsi/Bootcamp-01/main/logoDecolaTech.png)
 
 ## Cursos 
 
