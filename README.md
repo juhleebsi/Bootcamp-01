@@ -13,7 +13,7 @@
 #### Módulo II - HTML/CSS3
 
 - [x] Primeiros passos para desenvolvimento Web
-- [ ] Introdução a criação de websites com HTML5 e CSS3
+- [x] Introdução a criação de websites com HTML5 e CSS3
 
 #### Módulo III - Javascript
 
