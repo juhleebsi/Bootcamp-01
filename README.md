@@ -17,7 +17,7 @@
 
 #### Módulo III - Javascript
 
-- [ ] IDE Instalação e Configuração(Visual Studio Code)
+- [x] IDE Instalação e Configuração(Visual Studio Code)
 - [ ] Introdução ao JavaScript
 - [ ] Sintaxe Básica em JavaScript
 - [ ] Sintaxe e Operadores
